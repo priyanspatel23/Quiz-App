@@ -1,0 +1,210 @@
+1. What does HTML stand for?
+
+* Hyper Text Markup Language ✅
+* High Transfer Machine Language
+* Hyperlink Text Making Language
+* Home Tool Markup Language
+
+2. Which planet is known as the Red Planet?
+
+* Earth
+* Mars ✅
+* Venus
+* Jupiter
+
+3. Who is known as the Father of Computers?
+
+* Alan Turing
+* Charles Babbage ✅
+* Bill Gates
+* Steve Jobs
+
+4. Which gas do humans need to survive?
+
+* Oxygen ✅
+* Carbon Dioxide
+* Nitrogen
+* Helium
+
+5. What is the capital city of Japan?
+
+* Beijing
+* Tokyo ✅
+* Seoul
+* Bangkok
+
+6. Which company created the Windows operating system?
+
+* Apple
+* Google
+* Microsoft ✅
+* IBM
+
+7. Which is the largest ocean in the world?
+
+* Atlantic Ocean
+* Indian Ocean
+* Pacific Ocean ✅
+* Arctic Ocean
+
+8. Which device is used to input data into a computer?
+
+* Monitor
+* Keyboard ✅
+* Printer
+* Speaker
+
+9. Which country hosted the 2024 Summer Olympics?
+
+* USA
+* France ✅
+* Japan
+* Brazil
+
+10. Which programming language is used for web styling?
+
+* Python
+* CSS ✅
+* C++
+* Java
+
+11. Which is the fastest land animal?
+
+* Lion
+* Cheetah ✅
+* Tiger
+* Horse
+
+12. Which element has the chemical symbol H?
+
+* Hydrogen ✅
+* Helium
+* Mercury
+* Carbon
+
+13. Which Indian city is known as the Silicon Valley of India?
+
+* Mumbai
+* Bangalore ✅
+* Hyderabad
+* Chennai
+
+### 14. Which is the smallest continent in the world?
+
+* Europe
+* Australia ✅
+* Antarctica
+* South America
+
+15. Which device stores data permanently?
+
+* RAM
+* Hard Disk ✅
+* Cache
+* Register
+
+16. What is the square root of 144?
+
+* 10
+* 11
+* 12 ✅
+* 14
+
+17. Which is the largest mammal on Earth?
+
+* Elephant
+* Blue Whale ✅
+* Giraffe
+* Shark
+
+18. Which festival is known as the Festival of Lights in India?
+
+* Holi
+* Diwali ✅
+* Eid
+* Christmas
+
+### 19. Which currency is used in the USA?
+
+* Euro
+* Dollar ✅
+* Pound
+* Yen
+
+### 20. Who wrote the Ramayana?
+
+* Vyasa
+* Valmiki ✅
+* Kalidasa
+* Tulsidas
+
+21. Which programming language is used for Android apps?
+
+* Swift
+* Java ✅
+* Kotlin ✅
+* C#
+
+22. Which blood group is called Universal Donor?
+
+* A+
+* O- ✅
+* B+
+* AB+
+
+### 23. What is the freezing point of water?
+
+* 0°C ✅
+* 32°C
+* 100°C
+* 50°C
+
+24. Which is the national sport of India?
+
+* Cricket
+* Hockey ✅
+* Football
+* Kabaddi
+
+25. Which is the tallest mountain in the world?
+
+* Mount Everest ✅
+* K2
+* Kangchenjunga
+* Lhotse
+
+26. Which programming language is known as the Mother of All Languages?
+
+* Assembly
+* C ✅
+* Pascal
+* Java
+
+27. Which Indian cricketer is known as the 'God of Cricket'?
+
+* Virat Kohli
+* Sachin Tendulkar ✅
+* MS Dhoni
+* Kapil Dev
+
+28. What is the national bird of India?
+
+* Sparrow
+* Peacock ✅
+* Crow
+* Parrot
+
+29. Which planet is the largest in our solar system?
+
+* Saturn
+* Jupiter ✅
+* Neptune
+* Uranus
+
+30. Which festival is celebrated as the festival of colors in India?
+
+* Diwali
+* Holi ✅
+* Eid
+* Christmas
+

@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0a0f1f;
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+}
+.glow-border {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.glow-border::before {
+  content: "";
+  position: absolute;
+  top: -4px; left: -4px; right: -4px; bottom: -4px;
+  border-radius: 20px;
+  background: conic-gradient(#0ff, #0ff, #0ff);
+  animation: rotateBorder 5s linear infinite;
+  z-index: -1;
+}
+.glow-border::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #0d1326;
+  border-radius: 20px;
+  z-index: -1;
+}
+@keyframes rotateBorder {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.opt {
+  cursor: pointer;
+  transition: 0.3s;
+  color: cyan;
+}
+.opt:hover {
+  transform: scale(1.05);
+}
+.opt.disabled {
+  pointer-events: none;
+  opacity: 0.6;
+}
+.but{
+    color: black;
+    border: none;
+    border-radius: 16px;
+}
